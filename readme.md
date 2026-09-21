@@ -1,4 +1,4 @@
-# Simple CLI To-Do List
+# Simple To-Do List
 
 A lightweight, interactive command-line application written in Python to help you manage your daily tasks. 
 
