@@ -1,12 +1,8 @@
 def add_task(tasks):
     task_name = input("Enter the new task: ")
-
-    tasks.append({
-        "name": task_name
-    })
+    tasks.append({   "name": task_name })
 
     print("Task added successfully!")
-
 
 def delete_task(tasks):
     try:
