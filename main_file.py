@@ -18,7 +18,7 @@ def main():
             task_operations.delete_task(tasks)
             file_manager.save_tasks(tasks)
         elif choice =="4":
-            print("Goodbye!")
+            print("have a nice day!")
             break
         else:
             print("Invalid choice!")
