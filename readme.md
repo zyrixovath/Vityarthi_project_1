@@ -1,4 +1,4 @@
-# Simple To-Do List
+# Simple CLI To-Do List
 
 A lightweight, interactive command-line application written in Python to help you manage your daily tasks. 
 
@@ -19,11 +19,11 @@ All you need is Python installed on your computer. This script runs on standard 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/zyrixovath/Vityarthi_project_1.git
+   git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Vityarthi_project_1
+   cd your-repo-name
    ```
 3. Run the Python script:
    ```bash
