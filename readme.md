@@ -19,17 +19,17 @@ All you need is Python installed on your computer. This script runs on standard 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/zyrixovath/Vityarthi_project_1.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Vityarthi_project_1
    ```
 3. Run the Python script:
    ```bash
-   python todo.py
+   python main_file.py
    ```
-   *(Note: Replace `todo.py` with whatever you named your Python file!)*
+   *(Note: Replace `main_file.py` with whatever you named your Python file!)*
 
 ## 💻 Usage Example
 
